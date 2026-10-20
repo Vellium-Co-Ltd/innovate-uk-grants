@@ -1,0 +1,5 @@
+data/study/*.tsv
+data/study/*.jsonl
+data/study/accounts*/
+data/study/filers/
+__pycache__/
